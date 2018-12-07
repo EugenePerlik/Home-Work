@@ -97,13 +97,10 @@ class QuestionController: UIViewController {
         switch question.type {
         case .single:
             updateSingleStack(using: answers)
-            print(questionIndex)
         case .multiple:
             updateMultipleStack(using: answers)
-             print(questionIndex)
         case .ranged:
             updateRangedStack(using: answers)
-             print(questionIndex)
         }
         
     }
@@ -138,12 +135,9 @@ class QuestionController: UIViewController {
     
     func nextQuestion() {
         questionIndex += 1
-        
         if questionIndex < questions.count {
             updateUI()
         } else {
-            
-            print("tyt")
             performSegue(withIdentifier: "ResultSegue", sender: nil)
         }
     }
