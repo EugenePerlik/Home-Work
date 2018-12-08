@@ -36,7 +36,4 @@ class ResultsController: UIViewController {
         resultAnswerLabel.text = "Вы — это \(mostCommonAnswer.rawValue)!"
         resultDefinitionLabel.text = mostCommonAnswer.definition
     }
-
-
-
 }
