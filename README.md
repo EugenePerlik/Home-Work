@@ -13,4 +13,4 @@ Images end illustration.
 
 Video illustrations.
 
-[![Видео к проекту](https://github.com/EugenePerlik/Home-Work/raw/master/promo/begin.png)](https://yadi.sk/i/F0dbGhYZyj3ZUA)
+[![Видео к проекту](https://github.com/EugenePerlik/Home-Work/raw/master/promo/beginvideo.png)](https://yadi.sk/i/F0dbGhYZyj3ZUA)
