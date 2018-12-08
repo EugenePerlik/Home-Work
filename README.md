@@ -3,14 +3,14 @@ Homework 7.12.18 Personal Quiz
 
 First homework for the course. Illustration of the program and video.
 
-Images start illustration.
+The starting image of the illustration.
 
-![Иллюстрация к проекту](https://github.com/EugenePerlik/Home-Work/raw/master/promo/begin.png)
+![Illustration to the project](https://github.com/EugenePerlik/Home-Work/raw/master/promo/begin.png)
 
-Images end illustration.
+The final image of the illustration.
 
-![Иллюстрация к проекту](https://github.com/EugenePerlik/Home-Work/raw/master/promo/end.png)
+![Illustration to the project](https://github.com/EugenePerlik/Home-Work/raw/master/promo/end.png)
 
-Video illustrations.
+Video to the project.
 
-[![Видео к проекту](https://github.com/EugenePerlik/Home-Work/raw/master/promo/beginvideo.png)](https://yadi.sk/i/F0dbGhYZyj3ZUA)
+[![Video to the project](https://github.com/EugenePerlik/Home-Work/raw/master/promo/beginvideo.png)](https://yadi.sk/i/F0dbGhYZyj3ZUA)
